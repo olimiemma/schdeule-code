@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Product//Your Version//EN
+BEGIN:VEVENT
+UID:20240615T120000Z-001@yourdomain.com
+DTSTAMP:20240615T120000Z
+DTSTART:20240615T120000Z
+DTEND:20240615T130000Z
+SUMMARY:"put a face to a thing" podcast series: ST collision: smile ask for a photo
+DESCRIPTION:Start the hashtag and title of the video to post and do that.
+RRULE:FREQ=DAILY
+END:VEVENT
+END:VCALENDAR
